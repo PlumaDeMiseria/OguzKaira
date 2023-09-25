@@ -3,4 +3,4 @@
 - 🖥️ Game Developer and College Student
 - ✨ Make it fun!
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzKaira&show_icons=true&theme=radical)
+![Gif of Nier Automata](https://giffiles.alphacoders.com/121/121536.gif)
