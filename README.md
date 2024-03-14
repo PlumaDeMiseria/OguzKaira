@@ -1,10 +1,11 @@
 ### Hey, welcome 
 
 - 🖥️ Game Developer and College Student
-- ✨ Interested in Cyber Security
+- ✨ Interested in Cyber Security 
 ---
 ### Have a good day
-![Gif of Nier Automata](https://i.pinimg.com/originals/d5/0a/6a/d50a6aff5d4be5480939754ef3efd5b9.gif)
+![Gif of Nier Automata](https://steamuserimages-a.akamaihd.net/ugc/1001393370187326033/A903A9C9266C7810C4BBACFFFADE0CE509346564/?imw=1024&imh=682&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 ---
 ### Softwares and Languages
-[![](https://skillicons.dev/icons?i=ruby,cs,javascript,python,bash,powershell,neovim,vscode,linux&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,cpp,vscode,unity,unreal,windows,pytorch,tensorflow,mongodb&theme=dark)](https://skillicons.dev)     
+[![](https://skillicons.dev/icons?i=ruby,python,bash,powershell,neovim,linux&theme=dark)](https://skillicons.dev)
